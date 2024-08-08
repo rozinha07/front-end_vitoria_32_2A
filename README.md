@@ -25,7 +25,7 @@
 <body>
     <div class="profile">
         <h1>Informações Pessoais</h1>
-        <img src=![feijao](https://github.com/user-attachments/assets/d3b79001-01c1-43c5-9d99-aad9f03bb01f) alt="Foto de perfil">
+        <img src=![calango](https://github.com/user-attachments/assets/bdcd5e71-61e3-4663-a321-5cdcd1f07584) alt="Foto de perfil">
         <p><strong>Nome:</strong> Vitória Roza</p>
         <p><strong>Idade:</strong> 16 anos</p>
         <p><strong>Profissão:</strong> Tec. Enfermagem</p>
