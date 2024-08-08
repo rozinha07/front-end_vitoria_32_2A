@@ -30,6 +30,8 @@
         <p><strong>Idade:</strong> 16 anos</p>
         <p><strong>Profissão:</strong> Tec. Enfermagem</p>
         <p><strong>Hobby:</strong>jogar volei</p>
+        <p><strong>Nome:</strong>Geovana Vieira</p>
+        <p><strong>Idade:</strong> 16 anos</p>
     </div>
 </body>
 </html>
